@@ -1,4 +1,4 @@
-# User-Profile-Backup-And-Restore
+# User Profile Backup And Restore
 Powershell script to backup and restore a user profile to and from a specified location. Script uses a dynamically generated menu to choose the profile and specified drive to backup/restore.
 
 #### What does the script backup and restore:
